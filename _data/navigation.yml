@@ -1,8 +1,6 @@
 main:
   - title: "Projects"
-    url: /projects/
-  - title: "Networking"
-    url: /Networking/
+    url: /Projects/
   - title: "Guides"
     url: /Guides/
   - title: "About"
