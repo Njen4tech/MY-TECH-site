@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Najee jenkins"
-  avatar : "/assets/images/rsm.png"
+  avatar : "/assets/images/rrr.jpg"
   bio    : "I am an individual interested in Network/Switches and Network Security of things."
   links:
     - label: "Website"
@@ -70,7 +70,7 @@ author:
       url: "https://Linkedin.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://njen4tech.github.io/MY-TECH-site/"
     #- label: "Instagram"
      # icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
