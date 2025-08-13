@@ -67,7 +67,7 @@ author:
       url: "https://"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
-      url: "https://Linkedin.com/"
+      url: "https://www.linkedin.com/in/najen2ab/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://njen4tech.github.io/MY-TECH-site/"
@@ -77,15 +77,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/najen2ab/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://njen4tech.github.io/MY-TECH-site/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Blogger"
+      icon: "fa-brands fa-blogger"
+      url: "https://njen4tech.blogspot.com/"
 
 defaults:
   # _posts
