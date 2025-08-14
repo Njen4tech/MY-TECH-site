@@ -6,9 +6,7 @@ layout: single
 author_profile: true
 ---
 
-I am an individual interested in Switches and Routers and keep **good hygiene** online. 
-
-<h1>Hello, I'm Najee! <br/>
+<h1>Hello, I'm Najee! <br/><a></a>
 
 <h2>💻 IT Support & Network Security Projects:</h2>
 
@@ -33,4 +31,3 @@ I am an individual interested in Switches and Routers and keep **good hygiene** 
 - [How to Linux](https://www.youtube.com/@LearnLinuxTV)
 
 <h2> 🔎 Connect with me:</h2>
-
