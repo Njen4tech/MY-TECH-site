@@ -6,11 +6,11 @@ layout: single
 author_profile: true
 ---
 
-<h1>Hello, I'm Najee! <br/><a href="https://github.com/Njen4tech">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/najen2ab/">Linkedin</a>, <a href="https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB">Google IT Support </a></h1>
+<h1>Hello, I'm Najee! <br/><a </a></h1>
 
 <h2>💻 IT Support & Network Security Projects:</h2>
 
-- <b>Active Directory Server2019 (HOME LAB)</b>
+- <b>(HOME LAB)Projects</b>
   - [Install/Set-up VirtualMachine(Home Lab)](https://github.com/Njen4tech/VMware-Set-up)
   - [Active Directory Server 2019](--)
   - [Join Server Network/Client Management](--)
