@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Najee jenkins"
+  name   : "Najee"
   avatar : "/assets/images/rrr.jpg"
   bio    : "I am an individual interested in Network/Switches and Network Security of things."
   links:
