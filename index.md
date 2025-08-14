@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-<h1>Hello, I'm Najee <br/><a </a></h1>
+<h1>Hello, I'm Najee <br/></h1>
 
 <h2>💻 IT Support & Network Security Projects:</h2>
 
