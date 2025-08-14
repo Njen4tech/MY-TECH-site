@@ -23,8 +23,7 @@ author_profile: true
 - <b>Google IT Support Certificate</b>
   - [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
 
-<h2>📺 Recommended YouTube Channels Sites  
-</h2>
+<h2>📺 Recommended YouTube Channels Sites  </h2>
 
 - [KevTech IT](https://www.youtube.com/c/KevtechITSupport)
 - [Professor Messer](https://www.professormesser.com/)
