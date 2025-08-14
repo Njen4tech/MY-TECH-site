@@ -1,6 +1,6 @@
 ---
 permalink: /Projects/
-title: "Projects"
+title: "Home Lab Projects"
 ---
 
 
