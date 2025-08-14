@@ -8,7 +8,7 @@ author_profile: true
 
 I am an individual interested in Switches and Routers and keep **good hygiene** online. 
 
-<h1>Hello, I'm Najee! <br/><a href="https://github.com/Njen4tech">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/najen2ab/">Linkedin</a>, <a href="https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB">Google IT Support </a></h1>
+<h1>Hello, I'm Najee! <br/>
 
 <h2>💻 IT Support & Network Security Projects:</h2>
 
