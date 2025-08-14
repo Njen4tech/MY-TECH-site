@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ----
 
-<h1>Hello, I'm Najee! <br/><a></a>
+<h1>Hello, I'm Najee! <br/><a href="https://github.com/Njen4tech">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/najen2ab/">Linkedin</a>, <a href="https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB">Google IT Support </a></h1>
 
 <h2>💻 IT Support & Network Security Projects:</h2>
 
@@ -23,7 +23,8 @@ author_profile: true
 - <b>Google IT Support Certificate</b>
   - [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
 
-<h2>📺 Recommended YouTube Channels Sites  </h2>
+<h2>📺 Recommended YouTube Channels Sites  
+</h2>
 
 - [KevTech IT](https://www.youtube.com/c/KevtechITSupport)
 - [Professor Messer](https://www.professormesser.com/)
