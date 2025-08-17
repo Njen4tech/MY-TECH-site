@@ -14,7 +14,7 @@ author_profile: true
   - [Install/Set-up VirtualMachine(Home Lab)](https://github.com/Njen4tech/VMware-Set-up)
   - [Install/Set-up Pfsense](https://github.com/Njen4tech/Pfsense-Firewall-Configuration)
 
-- <b>Raspberry-PI Set up </b>
+- <b>Raspberry-PI Set up</b>
   - [Installing/Configure Rasp-PI Image](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</b></i>
 - <b>PowerShell Commands</b>
   - [Easy Intro ](-)
