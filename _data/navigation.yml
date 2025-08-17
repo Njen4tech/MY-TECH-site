@@ -5,3 +5,4 @@ main:
     #url: /Guides/
   - title: "About"
     url: /about/
+  - breadcrumbs: true  # disabled by default
