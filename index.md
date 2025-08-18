@@ -6,11 +6,14 @@ layout: single
 author_profile: true
 ---
 
-<h1>Hello, I'm Najee <br/></h1>
+<h1>Hello, Welcome <br/></h1>
+
+>[!Important]
+>This is to showcase and demonstrate my projects and documentation!   
 
 <h2>💻 IT Support & Network Security Projects:</h2>
 
-- <b>(HOME LAB)Projects</b>
+  - <b>(HOME LAB)Projects</b>
   - [Install/Set-up VirtualMachine(Home Lab)](https://github.com/Njen4tech/VMware-Set-up)
   - [Install/Set-up Pfsense](https://github.com/Njen4tech/Pfsense-Firewall-Configuration)
 
