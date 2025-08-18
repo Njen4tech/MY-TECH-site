@@ -9,6 +9,7 @@ author_profile: true
 <h1>Hello, Welcome <br/></h1>
 
 >[!Important]
+><br/>
 >This is to showcase and demonstrate my projects and documentation!   
 
 <h2>💻 IT Support & Network Security Projects:</h2>
