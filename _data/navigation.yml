@@ -6,3 +6,5 @@ main:
   - title: "About"
     url: /about/
   - breadcrumbs: true  # disabled by default
+  - breadcrumb_home_label : "Home"
+  - breadcrumb_separator  : "/"
