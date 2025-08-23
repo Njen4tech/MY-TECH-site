@@ -8,7 +8,7 @@ author_profile: true
 
 <h1>Hello, Welcome <br/></h1>
 
->[!Important]
+[!Important]
 ><br/>
 >This is to showcase and demonstrate my projects and documentation!   
 
