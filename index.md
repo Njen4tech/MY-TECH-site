@@ -21,9 +21,9 @@ author_profile: true
 - <b>Raspberry-PI Set up</b>
 - [Installing/Configure Rasp-PI Image](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</b></i>
 - <b>PowerShell Commands</b>
-  - [Easy Intro ](-)
+- [Easy Intro ](-)
 - <b>Google IT Support Certificate</b>
-  - [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
+- [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
 
 <h2>📺 Recommended YouTube Channels Sites  
 </h2>
