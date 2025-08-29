@@ -20,8 +20,10 @@ author_profile: true
 
 <b>CISCO SWITCH Configuration</b>
  - [Entering VLAN ](-)
-<b>Google IT Support Certificate</b>
-- [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
+
+<b> IT Certificate</b>
+  - [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
+  - [CompTIA A+ Certificate](https://www.credly.com/badges/1bcc0abc-5a50-4017-b773-791e23bac235/linked_in_profile)
 
 <h2>📺 Recommended YouTube Channels Sites  
 </h2>
