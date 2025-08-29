@@ -1,10 +1,10 @@
 main:
   - title: "LABS"
-    url: /CERTS/
+ ## url: /CERTS/
   - #title: "Guides"
     #url: /Guides/
-  - title: "About"
-    url: /about/
+ ## - title: "About"
+ ## url: /about/
   - breadcrumbs: true  # disabled by default
   - breadcrumb_home_label : "Home"
   - breadcrumb_separator  : "/"
