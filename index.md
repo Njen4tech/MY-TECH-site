@@ -8,7 +8,7 @@ author_profile: true
 
 <h1>Hello, Welcome <br/></h1>
 
- ><h4>This is to showcase and demonstrate my projects and documentation!   </h4>
+ ><h3>This is to showcase and demonstrate my projects and documentation!   </h3>
 
 <h2>💻 IT Support & Network Security Projects:</h2>
 
@@ -16,7 +16,7 @@ author_profile: true
   - [Install/Set-up VirtualMachine(Home Lab)](https://github.com/Njen4tech/VMware-Set-up)
   - [Install/Set-up Pfsense](https://github.com/Njen4tech/Pfsense-Firewall-Configuration)
 
-<b>Raspberry-PI Set up</b>
+ <b>Raspberry-PI Set up</b>
 - [Installing/Configure Rasp-PI Image](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</i></b>
 - <b>CISCO SWITCH Configuration</b>
 - [Entering VLAN ](-)
