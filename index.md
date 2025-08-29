@@ -12,15 +12,15 @@ author_profile: true
 
 <h2>💻 IT Support & Network Security Projects:</h2>
 
-  - <b>(HOME LAB)Projects</b>
+<b>(HOME LAB) Projects</b>
   - [Install/Set-up VirtualMachine(Home Lab)](https://github.com/Njen4tech/VMware-Set-up)
   - [Install/Set-up Pfsense](https://github.com/Njen4tech/Pfsense-Firewall-Configuration)
+<b>Raspberry-PI Set up</b>
+ - [Installing/Configure Rasp-PI Image](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</i></b>
 
- <b>Raspberry-PI Set up</b>
-- [Installing/Configure Rasp-PI Image](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</i></b>
-- <b>CISCO SWITCH Configuration</b>
-- [Entering VLAN ](-)
-- <b>Google IT Support Certificate</b>
+<b>CISCO SWITCH Configuration</b>
+ - [Entering VLAN ](-)
+<b>Google IT Support Certificate</b>
 - [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
 
 <h2>📺 Recommended YouTube Channels Sites  
