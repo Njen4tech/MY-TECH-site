@@ -32,4 +32,3 @@ author_profile: true
 - [Professor Messer](https://www.professormesser.com/)
 - [How to Linux](https://www.youtube.com/@LearnLinuxTV)
 
-<h2> 🔎 Connect with me:</h2>
