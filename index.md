@@ -19,7 +19,7 @@ author_profile: true
  - [Installing/Configure Rasp-PI Image](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</i></b>
 
 <b>CISCO SWITCH Configuration</b>
- - [Entering VLAN ](-)
+ - [Entering and Configuring Cisco VLAN ](-)
 
 <b> IT Certificate</b>
   - [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
