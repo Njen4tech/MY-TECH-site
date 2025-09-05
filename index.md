@@ -8,7 +8,7 @@ author_profile: true
 
 <h1>Hello, Welcome <br/></h1>
 
- >This is to showcase and demonstrate my projects and documentation!   
+>This is to showcase and demonstrate my projects and documentation!   
 
 <h2>💻Home Lab & Network Projects:</h2>
 
