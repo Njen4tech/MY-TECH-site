@@ -10,7 +10,7 @@ author_profile: true
 
  >This is to showcase and demonstrate my projects and documentation!   
 
-<h2>💻 IT Support & Network Security Projects:</h2>
+<h2>💻 IT Support & Cisco Network Projects:</h2>
 
 <b>(HOME LAB) Projects</b>
   - [Install/Set-up VirtualMachine(Home Lab)](https://github.com/Njen4tech/VMware-Set-up)
