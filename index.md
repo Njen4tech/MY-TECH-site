@@ -19,7 +19,7 @@ author_profile: true
 <b>Raspberry-PI Set up</b>
 
 <b>CISCO SWITCH Configuration</b>
- - [Entering and Configuring Cisco VLAN ](-)
+ - [Entering and Configuring Cisco Switch](https://github.com/Njen4tech/CISCO-SWITCH-CONFIG)
 
 <b> IT Certificate</b>
   - [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
