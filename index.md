@@ -16,7 +16,7 @@ author_profile: true
   - [Install/Set-up VirtualMachine(Home Lab)](https://github.com/Njen4tech/VMware-Set-up)
   - [Install/Set-up Pfsense](https://github.com/Njen4tech/Pfsense-Firewall-Configuration)<b><i>(Step by Step Guide)</i></b>
  - [Installing/Configuring Rasp-PI Image](https://njen4tech.blogspot.com/)
- - [1111g/1111](111111)
+  - [1111g/1111](1)
 <b>Raspberry-PI Set up</b>
 
 <b>CISCO SWITCH Configuration</b>
