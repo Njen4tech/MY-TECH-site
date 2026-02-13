@@ -6,29 +6,28 @@ layout: single
 author_profile: true
 ---
 
-<h1>Hello, Welcome <br/></h1>
+# Hello, Welcome
 
->This is to showcase and demonstrate my projects and documentation!   
+> This is to showcase and demonstrate my projects and documentation!
 
-<h2>💻Home Lab & Network Projects:</h2>
+## 💻 Home Lab & Network Projects
 
-<b>(HOME LAB) Projects</b>
-  - [Install/Set-up VirtualMachine(Home Lab)](https://github.com/Njen4tech/VMware-Set-up)
-  - [Install/Set-up Pfsense](https://github.com/Njen4tech/Pfsense-Firewall-Configuration)<b><i>(Step by Step Guide)</i></b>
- - [Installing/Configuring Rasp-PI Image](https://njen4tech.blogspot.com/)
-  - [1111g/1111](1)
-<b>Raspberry-PI Set up</b>
+### (HOME LAB) Projects
+- [Install / Set-up Virtual Machine (Home Lab)](https://github.com/Njen4tech/VMware-Set-up)
+- [Install / Set-up pfSense](https://github.com/Njen4tech/Pfsense-Firewall-Configuration) *(Step-by-Step Guide)*
+- [Installing / Configuring Raspberry Pi Image](https://njen4tech.blogspot.com/)
+- 
 
-<b>CISCO SWITCH Configuration</b>
- - [Entering and Configuring Cisco Switch](https://github.com/Njen4tech/CISCO-SWITCH-CONFIG)
+### Raspberry Pi Set Up
 
-<b> IT Certificate</b>
-  - [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
-  - [CompTIA A+ Certificate](https://www.credly.com/badges/1bcc0abc-5a50-4017-b773-791e23bac235/linked_in_profile)
-<h2>📺 Recommended YouTube Channels Sites  
-</h2>
+### Cisco Switch Configuration
+- [Entering and Configuring Cisco Switch](https://github.com/Njen4tech/CISCO-SWITCH-CONFIG)
 
+## 🎓 IT Certificates
+- [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
+- [CompTIA A+ Certificate](https://www.credly.com/badges/1bcc0abc-5a50-4017-b773-791e23bac235/linked_in_profile)
+
+## 📺 Recommended YouTube Channels & Sites
 - [KevTech IT](https://www.youtube.com/c/KevtechITSupport)
 - [Professor Messer](https://www.professormesser.com/)
-- [How to Linux](https://www.youtube.com/@LearnLinuxTV)
-
+- [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV)
