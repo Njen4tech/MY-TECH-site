@@ -1,6 +1,6 @@
 ---
 # You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
+# Edit the theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
@@ -8,7 +8,7 @@ author_profile: true
 
 # Hello, Welcome
 
-> This is to showcase and demonstrate my projects and documentation!
+This is to showcase and document my projects!
 
 ## 💻 Home Lab & Network Projects
 
@@ -18,7 +18,6 @@ author_profile: true
 - [Setting up Windows Server 2019 & ACTIVE DIRECTORY](https://github.com/Njen4tech/Windows-Server-2019)
 ### Raspberry Pi Set Up
 - [Installing / Configuring Raspberry Pi Image](https://njen4tech.blogspot.com/)
-
 
 ### Cisco Switch Configuration
 - [Entering and Configuring Cisco Switch](https://github.com/Njen4tech/CISCO-SWITCH-CONFIG)
