@@ -15,10 +15,10 @@ author_profile: true
 ### (HOME LAB) Projects
 - [Install / Set-up Virtual Machine (Home Lab)](https://github.com/Njen4tech/VMware-Set-up)
 - [Install / Set-up pfSense](https://github.com/Njen4tech/Pfsense-Firewall-Configuration) *(Step-by-Step Guide)*
-- [Installing / Configuring Raspberry Pi Image](https://njen4tech.blogspot.com/)
-- 
-
+- [Setting up Windows Server 2019 & ACTIVE DIRECTORY](https://github.com/Njen4tech/Windows-Server-2019)
 ### Raspberry Pi Set Up
+- [Installing / Configuring Raspberry Pi Image](https://njen4tech.blogspot.com/)
+
 
 ### Cisco Switch Configuration
 - [Entering and Configuring Cisco Switch](https://github.com/Njen4tech/CISCO-SWITCH-CONFIG)
