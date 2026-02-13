@@ -25,6 +25,7 @@ This is to showcase and document my projects!
 ## 🎓 IT Certificates
 - [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
 - [CompTIA A+ Certificate](https://www.credly.com/badges/1bcc0abc-5a50-4017-b773-791e23bac235/linked_in_profile)
+- Working on obtaining CompTIA Security+ 
 
 ## 📺 Recommended YouTube Channels & Sites
 - [KevTech IT](https://www.youtube.com/c/KevtechITSupport)
