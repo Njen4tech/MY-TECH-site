@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-# Hello, Welcome
+
 
 This is to showcase and document my projects!
 
